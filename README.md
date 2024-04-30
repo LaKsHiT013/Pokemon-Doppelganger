@@ -13,7 +13,7 @@
 
 # Installation:
 
-1) Clone the repository: git clone https://github.com/your-username/pokemon-doppelganger.git
+1) Clone the repository: git clone [https://github.com/your-username/pokemon-doppelganger.git](https://github.com/LaKsHiT013/Pokemon-Doppelganger)
 2) nstall the required Python packages: pip install -r requirements.txt
 3) Ensure proper setup of OpenCV and TensorFlow libraries for image processing and machine learning functionalities.
 
