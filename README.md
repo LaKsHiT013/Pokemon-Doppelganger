@@ -6,10 +6,10 @@
 "Pokémon Doppelganger" is an innovative application that employs facial recognition technology and machine learning to find the Pokémon species most closely resembling a user's facial features. By analyzing facial embeddings extracted from user images and comparing them with pre-computed embeddings of Pokémon species, the system identifies the closest match using cosine similarity.
 
 # Features:
--> Facial Feature Extraction: Utilizes a pre-trained VGG16-based model to extract facial embeddings from user-provided images.
--> Cosine Similarity: Computes cosine similarity between user embeddings and pre-computed embeddings of Pokémon species to find the closest match.
--> Dynamic Data Loading: Loads Pokémon embeddings from a CSV file, enabling easy updates and scalability.
--> Error Handling: Handles scenarios where no faces are detected in the input image gracefully, providing informative messages to the user.
+-> Facial Feature Extraction: Utilizes a pre-trained VGG16-based model to extract facial embeddings from user-provided images. <br>
+-> Cosine Similarity: Computes cosine similarity between user embeddings and pre-computed embeddings of Pokémon species to find the closest match. <br>
+-> Dynamic Data Loading: Loads Pokémon embeddings from a CSV file, enabling easy updates and scalability. <br>
+-> Error Handling: Handles scenarios where no faces are detected in the input image gracefully, providing informative messages to the user. <br>
 
 # Installation:
 
