@@ -27,7 +27,7 @@
 
 # Improvements:
 -> Currently classifies only 7 species of Pokemon, can be increased.<br>
--> Instead taking only face and doing prediction the modelis highlt effected by the clothes and colour in the background for prediction.
+-> Instead taking only face and doing prediction the modelis highlt effected by the clothes and colour in the     background for prediction.
 
 # Disclaimer:
 
