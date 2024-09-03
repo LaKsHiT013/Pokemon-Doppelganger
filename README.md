@@ -25,6 +25,10 @@
 3) The system will analyze the image, extract facial features, compare them with Pokémon embeddings, and output the most similar Pokémon species.
 
 
+# Improvements:
+-> Currently classifies only 7 species of Pokemon, can be increased.<br>
+-> Instead taking only face and doing prediction the modelis highlt effected by the clothes and colour in the background for prediction.
+
 # Disclaimer:
 
 This project is developed for educational and entertainment purposes only. It is not affiliated with or endorsed by The Pokémon Company.
